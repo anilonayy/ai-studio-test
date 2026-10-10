@@ -1,11 +1,5 @@
-<div align="center">
+# ai-studio-test
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A scratch repository used to test exporting a project from [Google AI Studio](https://aistudio.google.com/apps) to GitHub.
 
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+It contains no application code, only this README.
